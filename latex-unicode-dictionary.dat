@@ -1,0 +1,48 @@
+# LaTeX symbol, Unicode symbol
+\!, 00A1
+\` A, 00C0
+\' A, 00C1
+\^ A, 00C2
+\" A, 00C4
+# [ ] means strict space
+\c[ ]C, 00C7
+\` E, 00C8
+\' E, 00C9
+\^ E, 00CA
+\" E, 00CB
+\` I, 00CC
+\' I, 00CD
+\^ I, 00CE
+\" I, 00CF
+\~ N, 00D1
+\` O, 00D2
+\' O, 00D3
+\^ O, 00D4
+\" O, 00D6
+\` U, 00D9
+\' U, 00DA
+\^ U, 00DB
+\" U, 00DC
+\` a, 00E0
+\' a, 00E1
+\^ a, 00E2
+\" a, 00E4
+# [ ] means strict space
+\c[ ]c, 00E7
+\` e, 00E8
+\' e, 00E9
+\^ e, 00EA
+\" e, 00EB
+\` i, 00EC
+\' i, 00ED
+\^ i, 00EE
+\" i, 00EF
+\~ n, 00F1
+\` o, 00F2
+\' o, 00F3
+\^ o, 00F4
+\" o, 00F6
+\` u, 00F9
+\' u, 00FA
+\^ u, 00FB
+\" u, 00FC
